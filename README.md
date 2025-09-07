@@ -17,3 +17,11 @@ Avatar gear/themes
 Basic analytics (XP earned per week)
 
 Complete the landing page
+
+### Contact:
+
+GitHub: https://github.com/nickd0202
+
+LinkedIn: https://www.linkedin.com/in/nickita-danilovich/
+
+Email: NickitaDanilovich@gmail.com
