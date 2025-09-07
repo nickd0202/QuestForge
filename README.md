@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Welcome to QuestForge
 
-## Getting Started
+### What is QuestForge?
 
-First, run the development server:
+QuestForge is a small side project I’m building to learn full stack patterns by making productivity feel like an RPG. You complete tasks to earn XP and level up. I’m using this to practice real world flows (auth, CRUD, API design, DB schema, basic deployment).
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+### Why I’m building this
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Sticking to a habit was always hard work for me. I needed something to push me to achieve my goals. A game that makes me stronger through completing my habits was the perfect answer. I love video games and incorporating that into my life was the solution.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+### Roadmap 
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+Streaks
 
-## Learn More
+Avatar gear/themes
 
-To learn more about Next.js, take a look at the following resources:
+Basic analytics (XP earned per week)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Complete the landing page
